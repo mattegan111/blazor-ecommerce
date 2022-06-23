@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = blazor-ecommerce.Server
+build_property.ProjectDir = C:\Users\Kerie\source\repos\blazor-ecommerce\blazor-ecommerce\Server\
