@@ -29,8 +29,6 @@
     {
         var result = await Http.GetFromJsonAsync<List<Product>>("api/Product");
         if (result != null)
-        {
             Products = result;
-        }
     }
 }
